@@ -1,0 +1,7 @@
+Summary of Results:
+
+Ropelength GPT: The lower bound for the ropelength of any knot or link with crossing number C is at least 2.08*C^(3/4), which is an improvement over the established 1.105. The exact value is (4pi/4.724)^(3/4), where 4.724 is the numerical maximum of a function.
+
+Six Point Trefoil: A derivation that six random points on the surface of a sphere, when connected to form a hexagon, have a ~0.63% probability of forming a trefoil knot, which is derived as exactly 1/(16pi^2)
+
+Pearl Necklace: A preprint I wrote based on a ChatGPT conversation about making tangent-sphere knots with fewer vertices than are required to embed them on a cubic lattice (also on arxiv)
